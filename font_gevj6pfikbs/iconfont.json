@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1070",
+      "name": "礼物",
+      "font_class": "liwu",
+      "unicode": "f008d",
+      "unicode_decimal": 983181
+    },
+    {
+      "icon_id": "2542737",
+      "name": "地标",
+      "font_class": "dibiao",
+      "unicode": "e8e6",
+      "unicode_decimal": 59622
+    },
+    {
+      "icon_id": "3456452",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e70b",
+      "unicode_decimal": 59147
+    },
+    {
+      "icon_id": "15784817",
+      "name": "维修",
+      "font_class": "weixiu",
+      "unicode": "e74b",
+      "unicode_decimal": 59211
+    },
+    {
+      "icon_id": "19949527",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "21027681",
+      "name": "15天免费换货_24px.",
+      "font_class": "15tianmianfeihuanhuo24px",
+      "unicode": "e504",
+      "unicode_decimal": 58628
+    },
+    {
+      "icon_id": "34652064",
+      "name": "7-copy",
+      "font_class": "icon-7",
+      "unicode": "e501",
+      "unicode_decimal": 58625
+    }
+  ]
+}
